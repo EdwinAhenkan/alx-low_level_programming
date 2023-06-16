@@ -5,7 +5,7 @@
 /**
  * main - A program that prints a new line to the standard error
  *
- * Return 0 (Successful)
+ * Return: 0 (Successful)
  */
 int main(void)
 {
