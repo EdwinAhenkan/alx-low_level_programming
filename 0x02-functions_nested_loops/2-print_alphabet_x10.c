@@ -3,10 +3,10 @@
  * print_alphabet_x10 -prints the alphabet 10 times
  * Return: 0
  */
-void -print_alphabet_x10.c(void)
+void _print_alphabet_x10.c(void)
 {
 	int i;
-	int j
+	int j;
 	
 	for (j = 1; 1 <= 10; i++)
 	{
