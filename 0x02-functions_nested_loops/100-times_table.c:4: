@@ -1,0 +1,2 @@
+_table.c:7: war_table.c:7: warning: no description found for function print_times_tables
+100-times_table.c:7: warning: No description found for parameter or member 'n'ing: no description found for function print_times_tables 100-times_table.c:7: warning: No description found for parameter or member 'n'

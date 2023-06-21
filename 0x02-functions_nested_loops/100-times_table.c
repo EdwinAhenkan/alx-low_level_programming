@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
- * main _ Prints the times table of the input
+ * prints_times_table - Prints the times table of the input
  * starting from 0
+ *
+ * Return: 0
  */
 void print_times_tables(int n)
 {
