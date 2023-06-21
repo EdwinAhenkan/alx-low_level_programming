@@ -1,16 +1,13 @@
 #include <stdio.h>
 
 /**
- * print_t-_98 - Prints all natural numbers from input to 98
- * @n: The Starting numbe
+ * print_to_98 - Prints all natural numbers from input to 98
+ * in order separated by a comma, followed by a space
+ * @n: The number to begin counting at
  *
- * Description: The function takes an integer 'n' and prints
- * all numbers starting from 'n' to 98. It can handle both
- * sequences depending on the value of 'n'
  */
 
 void print_to_98(int n)
-
 {
 	if (n >= 98)
 	{
