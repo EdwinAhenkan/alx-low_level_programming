@@ -1,0 +1,7 @@
+trcpy.c:12:6: error: expected identifier or ‘(’ before numeric constant
+   12 |  int 1 = 0;
+      |      ^
+9-strcpy.c:17:4: error: lvalue required as increment operand
+   17 |   1++;
+      |    ^~
+
